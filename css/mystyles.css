@@ -1,0 +1,75 @@
+body {
+    background-image: url("https://t3.ftcdn.net/jpg/03/75/89/32/360_F_375893262_zxeSLy0Vduyael1kMvEdgwtAtVm742Zu.jpg");
+}
+h1 {
+    font-family: 'Comic Sans MS', 'Trebuchet MS', 'Times New Roman', serif;
+    font-size: 25px;
+    color:white;
+    font-weight:bold;
+    text-align: center;
+    
+}
+h2 {
+    font-family:'Comic Sans MS', 'Trebuchet MS', 'Times New Roman', serif;
+    font-size:xx-large;
+    color:gray;
+
+}
+
+h3 {
+    font-family:'Comic Sans MS', 'Trebuchet MS', 'Times New Roman', serif;
+    font-size: 50px;
+    color:darkgreen;
+    text-align:center
+}
+h4 {
+    font-family:'Comic Sans MS', 'Trebuchet MS', 'Times New Roman', serif;
+    font-weight:bolder;
+    color: black
+}
+
+#jazzlogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+
+ol {
+    font-family:'Comic Sans MS', 'Trebuchet MS', 'Times New Roman', serif;
+    font-size: 25px;
+    color: white;
+    font-weight:bolder;
+    margin-left:450px
+}
+
+ul {
+    font-family:'Comic Sans MS', 'Trebuchet MS', 'Times New Roman', serif;
+    font-size: 20px;
+    color:darkgreen;
+    font-weight:bold;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#viz1703014940319 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#linkstyle {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size:large;
+color:blue
+}
